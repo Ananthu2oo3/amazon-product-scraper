@@ -1,9 +1,8 @@
 '''
-Created on  : 06-04-2023 
-
 @author     : Ananthakrishnan G
 
 source:     : https://medium.com/featurepreneur/selenium-c78e87cc8c4a
+
 '''
 
 
